@@ -58,7 +58,7 @@ Keras-Preprocessing==1.0.9
 kiwisolver==1.0.1
 llvmlite==0.27.0
 Markdown==3.1
-MarkupSafe==1.0
+MarkupSafe
 mistune==0.8.3
 mock==2.0.0
 nbconvert==5.3.1
@@ -130,7 +130,7 @@ urllib3==1.23
 virtualenv==16.7.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug
 widgetsnbextension==3.4.1
 wrapt==1.11.2
 xlrd==1.2.0
