@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------#
-# Module dedicated to Pneumonia Detection on Keras Model                        #
-# Part: Main functions and Procedures                                           #
-# Date of preparation: 2019 07 16–26                                            #
-# © Vytautas Bielinskas                                                         #
-#-------------------------------------------------------------------------------#
-
-
-#-------------------------------------------------------------------------------#
-# Import modules and packages
 import numpy as np
 import pandas as pd
 import tensorflow as tf
