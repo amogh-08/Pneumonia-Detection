@@ -3,7 +3,7 @@
 ## Flask app for Pneumonia Prediction using X-ray images
 ### Live Link : https://predictpneumonia.herokuapp.com/
 
-### Workflow of Methodology
+### Flowchart of Methodology
 <br>
 <br>
 
