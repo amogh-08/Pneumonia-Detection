@@ -13,10 +13,7 @@ itsdangerous
 Jinja2
 joblib
 Keras
-Markdown
-MarkupSafe
 numpy
-opencv-python
 Pillow
 scikit-image
 scikit-learn
